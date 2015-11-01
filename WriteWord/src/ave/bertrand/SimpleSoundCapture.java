@@ -32,6 +32,7 @@ import javax.swing.border.SoftBevelBorder;
  * 
  * @author Steve Potts
  */
+@SuppressWarnings("serial")
 public class SimpleSoundCapture extends JPanel implements ActionListener {
 
 	final int bufSize = 16384;
