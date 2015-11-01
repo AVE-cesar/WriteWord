@@ -167,7 +167,7 @@ public class WriteWord extends JPanel implements ActionListener {
 		f.setLocation(screenSize.width / 2 - w / 2, screenSize.height / 2 - h
 				/ 2);
 		f.setSize(w, h);
-		f.show();
+		f.setVisible(true);
 	}
 
 	/**
