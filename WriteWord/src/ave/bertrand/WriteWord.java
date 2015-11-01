@@ -23,6 +23,13 @@ import javax.swing.JTextField;
 import javax.swing.border.EmptyBorder;
 import javax.swing.border.SoftBevelBorder;
 
+/**
+ * Classe principale contenant le main.
+ * 
+ * 
+ * @author bertrand
+ *
+ */
 @SuppressWarnings("serial")
 public class WriteWord extends JPanel implements ActionListener {
 
